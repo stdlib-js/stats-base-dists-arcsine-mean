@@ -69,7 +69,7 @@ where `a` is the minimum support and `b` is the maximum support.
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-mean@v0.2.1-deno/mod.js';
 ```
 
 #### mean( a, b )
@@ -129,7 +129,7 @@ y = mean( 3.0, 3.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-mean@v0.2.1-deno/mod.js';
 
 var a;
 var b;
