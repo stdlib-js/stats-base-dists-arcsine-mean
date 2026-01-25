@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-08-11)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -34,10 +34,12 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`846b05e`](https://github.com/stdlib-js/stdlib/commit/846b05e0bea14ee9931044b529f071bd8c20879b) - **chore:** clean-up _(by Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`6ff59dd`](https://github.com/stdlib-js/stdlib/commit/6ff59dd9c1a20e141232e8081ca8606c87c73989) - **docs:** replace manual `for` loop in examples [(#6249)](https://github.com/stdlib-js/stdlib/pull/6249) _(by Karan Anand)_
--   [`9a18dc7`](https://github.com/stdlib-js/stdlib/commit/9a18dc77697311a314e9ff0c5bf5427a2fcfbfd7) - **bench:** remove duplicate variable declaration [(#5159)](https://github.com/stdlib-js/stdlib/pull/5159) _(by ekambains)_
+-   [`9a18dc7`](https://github.com/stdlib-js/stdlib/commit/9a18dc77697311a314e9ff0c5bf5427a2fcfbfd7) - **bench:** remove duplicate variable declaration [(#5159)](https://github.com/stdlib-js/stdlib/pull/5159) _(by Ekampreet Singh Bains)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`d3cf065`](https://github.com/stdlib-js/stdlib/commit/d3cf0651525333600890e7c57d6f5df6466c0eee) - **feat:** add C implementation for `stats/base/dists/arcsine/mean` [(#4369)](https://github.com/stdlib-js/stdlib/pull/4369) _(by Karan Anand, stdlib-bot)_
 -   [`fdd6251`](https://github.com/stdlib-js/stdlib/commit/fdd6251ca208c5aceff5d6a2929788ed2cfbc2d6) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4798)](https://github.com/stdlib-js/stdlib/pull/4798) _(by Karan Anand)_
@@ -56,9 +58,9 @@ A total of 2 issues were closed in this release:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Ekampreet Singh Bains
 -   Karan Anand
 -   Philipp Burckhardt
--   ekambains
 
 </section>
 
